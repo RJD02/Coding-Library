@@ -1,4 +1,4 @@
-# Competitive-Coding
+# Coding Library
 This is my personal library that I have built from scratch and along the way.
 
 # Why?
